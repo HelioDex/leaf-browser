@@ -2,7 +2,7 @@
   <a href="https://chrome.google.com/webstore/detail/leaf-browser-alpha/nefehiekhccmedmdoilmhikhdiiijkbe"><img src="docs/webstore.png" /></a>
 </p>
 
-# Leaf Browser Alpha
+# DocSocial Browser
 
 This project is an **experimental** browser UI that runs as a Google Chrome app
 and uses webview tags. It's in its **very early** stages at the moment.
@@ -52,18 +52,19 @@ You can also install it like so:
    repository.
 
 You can now launch the app by visiting your Apps page (left hand side of the
-bookmarks bar, or visit `chrome://apps/`), and selecting "Leaf Browser"
+bookmarks bar, or visit `chrome://apps/`), and selecting "DocSocial Browser"
 
 ## Contribution
 
 Contributions / PRs are of course welcome, but you need to be happy that your
-code will be released under any license I fancy, as project owner.
+code will be released under the same licence as the main project.
 
 ## License
 
 The MIT License (MIT)
 
 Copyright (c) 2016 Sam Lanning
+also Heliodex 2021
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
